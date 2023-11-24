@@ -21,12 +21,11 @@
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6CB52D&labelColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=8EAAC2&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1D63ED&labelColor=0D1117)&nbsp; 
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6CB52D&labelColor=0D1117)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=79D4FD&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6CB52D&labelColor=0D1117)&nbsp;
 
 
 ### Help by following me:
